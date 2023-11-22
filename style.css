@@ -1,0 +1,14 @@
+#logo {text-align: center}
+#banner { margin-left: 0px; margin-right: 0px; text-align: center; font-size: x-small; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(5, 71, 71); background-color: rgb(252, 245, 188);
+    opacity: 0.6}
+#titolo { text-align: center; font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif}
+#sottotitolo { margin-left: 580px; margin-right: 590px; font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif}
+#immagine { text-align: center}
+#didascalia { text-align: center; font-family: Georgia, 'Times New Roman', Times, serif; color: grey;}
+#linkutili { margin-left: 570px; margin-right: auto; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(156, 53, 53); font-size: small}
+#ingredienti { margin-left: 570px; margin-right: auto; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(66, 65, 65); font-size: small}
+#elencopuntato1 { margin-left: 570px; margin-right: auto; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(66, 65, 65); font-size: small; line-height: 2}
+#elencopuntato2 { margin-left: 570px; margin-right: auto; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(66, 65, 65); font-size: small; line-height: 2}
+#metodo { margin-left: 570px; margin-right: auto; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(66, 65, 65); font-size: small}
+#testo { margin-left: 570px; margin-right: 590px; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(66, 65, 65); font-size: small}
+#footer { margin-left: 570px; margin-right: auto; font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(66, 65, 65); font-size: small}
